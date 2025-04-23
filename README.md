@@ -69,12 +69,6 @@ To run the project:
 
 ---
 
-## 📸 Screenshots
-
-> *(Insert screenshots or GIF previews of the app in action here)*
-
----
-
 ## 👨‍💻 Authors
 
 - **Ahmed Sayed Ahmed**  
