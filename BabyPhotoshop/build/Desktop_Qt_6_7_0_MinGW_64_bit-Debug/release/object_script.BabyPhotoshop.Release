@@ -1,0 +1,11 @@
+release/blur.o
+release/crop.o
+release/frame.o
+release/main.o
+release/mainwindow.o
+release/qrc_img.o
+release/qrc_qmake_qmake_qm_files.o
+release/moc_blur.o
+release/moc_crop.o
+release/moc_frame.o
+release/moc_mainwindow.o
